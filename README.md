@@ -12,5 +12,8 @@ LAYER ABOUT
 <br><br>
 LAYER FORM
 1. Layer FORM html<br>
+![form html](https://user-images.githubusercontent.com/101261241/161421501-7ae904a6-edea-4ef6-8598-777e2f4113b4.PNG)
 2. Layer FORM css<br>
+![form css](https://user-images.githubusercontent.com/101261241/161421505-46f0426e-a209-4659-99f9-3dafc2a23200.PNG)
 3. Layer FORM hasil<br>
+![form hasil](https://user-images.githubusercontent.com/101261241/161421513-8d601f1f-4e98-4b76-871f-f02961c1e823.PNG)
